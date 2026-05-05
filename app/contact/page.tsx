@@ -76,8 +76,8 @@ export default function Contact() {
                                     <div>
                                         <h4 className="font-black text-primary text-sm mb-2">Office Address</h4>
                                         <p className="text-slate-600 font-medium text-sm leading-relaxed">
-                                            Shop No- 120, FF, Krishna Palace,<br />
-                                            Gurugram 122001, Haryana, India
+                                            Unit No- 322, Precision Soho Tower Sector 67,<br />
+                                            Badshahpur Gurgoan 122001, Haryana, India
                                         </p>
                                     </div>
                                 </div>
